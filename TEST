@@ -1,0 +1,27 @@
+## Test case 1 w/ expected output: 
+
+Enter the numbers you wish to add (separated by spaces), then press enter: 56 12 78 22 45
+Add more numbers (separated by spaces), or enter 'done' to sort your list: done
+Sorted Linked List (Smallest to Largest): [12, 22, 45, 56, 78]
+
+## Test case 2 w/ expected output: 
+Enter the numbers you wish to add (separated by spaces), then press enter: -4 -13 7 4 10
+Add more numbers (separated by spaces), or enter 'done' to sort your list: 7 -8
+Add more numbers (separated by spaces), or enter 'done' to sort your list: done
+Sorted Linked List (Smallest to Largest): [-13, -8, -4, 4, 7, 7, 10]
+
+## Test case 3 w/ expected output:
+Enter the numbers you wish to add (separated by spaces), then press enter: string
+Invalid input: string. Please enter integers only.
+Add more numbers (separated by spaces), or enter 'done' to sort your list: 34 54 78 90 12
+Add more numbers (separated by spaces), or enter 'done' to sort your list: done
+Sorted Linked List (Smallest to Largest): [12, 34, 54, 78, 90]
+
+## Test case 4 w/ expected output:
+Enter the numbers you wish to add (separated by spaces), then press enter: 56
+Add more numbers (separated by spaces), or enter 'done' to sort your list: 12
+Add more numbers (separated by spaces), or enter 'done' to sort your list: 78
+Add more numbers (separated by spaces), or enter 'done' to sort your list: 22
+Add more numbers (separated by spaces), or enter 'done' to sort your list: 45
+Add more numbers (separated by spaces), or enter 'done' to sort your list: done
+Sorted Linked List (Smallest to Largest): [12, 22, 45, 56, 78]
