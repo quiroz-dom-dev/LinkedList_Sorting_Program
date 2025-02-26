@@ -5,7 +5,7 @@ import java.util.Collections;
 /**
  * Main Class. This class serves as an entry point to the methods implemented. 
  */
-Public class Main {
+public class Main {
 
     /**
      * Contructor. Creates an empty linked list. 
