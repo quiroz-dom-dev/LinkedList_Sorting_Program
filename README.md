@@ -39,9 +39,11 @@ Sorted Linked List (Smallest to Largest): [12, 22, 45, 56, 78]
 
 ## Dependencies
 Java 8 or later.
+![Java](https://img.shields.io/badge/Java-8-blue)
 
 ## Contributing
 Collaboration or Reuse are welcome. Feel free to open an issue to the dicuss the changes you are looking to make. 
 
 ## License
 Project is licensed under MIT License.
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
