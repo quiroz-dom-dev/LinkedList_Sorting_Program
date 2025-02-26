@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Use Case](#use-case)
 - [Features](#features)
 - [How to Run](#how-to-run)
 - [Test Case](#test-case)
@@ -11,6 +12,10 @@
 
 ## Description
 This program implements a linked list Java sorting solution which sorts integers submitted by the user from smallest to largest. 
+
+## Use Case
+This program can be used to sort through a large list of integers. 
+For example, collecting a list of student birth dates to understand how many students are born in the same number (day of the month). 
 
 ## Features
 - Error Handling. The program will only accept positive or negative integers.
